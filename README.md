@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minicurso Quasar (minicurso-quasar)
 
 A Quasar Framework app
@@ -24,3 +25,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
+=======
+# quasar-weather
+>>>>>>> 7321f3b78e8202fe8a7d240636456b3e309a619e
